@@ -1,3 +1,7 @@
+# Mayowa Obisesan
+# Python Webcam - OpenCV
+# December 13, 2022.
+
 import cv2 as cv
 
 cap = cv.VideoCapture(0)
